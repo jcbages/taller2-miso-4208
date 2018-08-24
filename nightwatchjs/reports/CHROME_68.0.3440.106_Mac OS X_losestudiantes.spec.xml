@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="3">
+
+  <testsuite name="losestudiantes.spec"
+    errors="0" failures="0" hostname="" id="" package="losestudiantes.spec" skipped="0"
+    tests="3" time="11.11" timestamp="Fri, 24 Aug 2018 05:43:49 GMT">
+  
+    <testcase name="Los estudiantes login falied" classname="losestudiantes.spec" time="4.016" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Search for a professor and select it" classname="losestudiantes.spec" time="4.818" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Filter and unfilter professor subjects" classname="losestudiantes.spec" time="2.275" assertions="1">
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
